@@ -6,7 +6,7 @@
 > + **_Autores_**: Curro Bonet-García (fjbonet@uco.es), Jaime A. Muriel Redondo (b02murej@uco.es) y Carlos Fernández Delgado (ba1fedec@uco.es)
 > + **_Duración_**: Unas 5 horas de trabajo en casa.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_general_invasoras_IEEI_masterbio_UCO/refs/tags/2024-2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_ensayo_tema_frontera_invasoras_IEEI_masterbio_UCO/heads/main/imagenes/portada.png)
 
 ---
 [TOC]
