@@ -6,7 +6,7 @@
 > + **_Autores_**: Curro Bonet-García (fjbonet@uco.es), Jaime A. Muriel Redondo (b02murej@uco.es) y Carlos Fernández Delgado (ba1fedec@uco.es)
 > + **_Duración_**: Unas 5 horas de trabajo en casa.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_ensayo_tema_frontera_invasoras_IEEI_masterbio_UCO/refs/heads/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_ensayo_tema_frontera_invasoras_IEEI_masterbio_UCO/refs/tags/2025_2026/imagenes/portada.png)
 
 ---
 [TOC]
@@ -85,7 +85,7 @@ La gestión letal de invasoras se sitúa en el cruce entre objetivos de conserva
 
 ## Fecha y forma de entrega
 
-El trabajo se entregará como muy tarde el día xxx en [este](https://www.turnitin.com/class/52346688/instructor_home?lang=es) enlace de Turnitin.
+El trabajo se entregará como muy tarde el día 11 de mayo de 2026 a las 23:59 en [este](https://www.turnitin.com/class/52346688/instructor_home?lang=es) enlace de Turnitin.
 
 
 
